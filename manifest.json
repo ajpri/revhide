@@ -1,0 +1,12 @@
+{
+    "name": "RevHide",
+    "description": "Hide Job Postings from Revature on Indeed",
+    "version": "1.0",
+    "manifest_version": 3,
+    "content_scripts": [
+        {
+          "matches": ["https://indeed.com/*","https://*.indeed.com/*"],
+          "js": ["revhide.js"]
+        }
+      ]
+}
