@@ -3,7 +3,7 @@ Chrome Extension that hides job postings from Indeed.
 
 by Austin Pritchett
 
-C++/Java/C# Developer looking for a job: [Pritchett.info](https://Pritchett.info)
+C++/Java/C# Developer looking for a job: [Pritchett.info](http://Pritchett.info)
 
 Currently Supports:
 * Revature
